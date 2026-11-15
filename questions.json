@@ -1,0 +1,645 @@
+{
+  "bank_version": "2026-11-14.4",
+  "changelog": "2026-11-14.4: Public bank holds questions only; days 1-14, impromptu items (day any), and L's seven-round deduction drill (days 1-7).",
+  "questions": [
+    {
+      "id": "Q-001",
+      "version": 1,
+      "day": 1,
+      "type": "calibration",
+      "text": "Roughly how many bones are in the adult human body? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-002",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-003",
+      "version": 1,
+      "day": 1,
+      "type": "scenario",
+      "text": "A teammate's plan has one big flaw that only you have noticed. What do you do, and why?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-004",
+      "version": 1,
+      "day": 1,
+      "type": "reflection",
+      "text": "How do you like to learn something new: reading, watching, doing, or talking it through?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-005",
+      "version": 1,
+      "day": 1,
+      "type": "drill",
+      "text": "A visitor says they walked 20 minutes from the bus stop. It has rained steadily for an hour. Their umbrella is dripping, but their shoes and trouser cuffs are bone dry. What really happened?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-006",
+      "version": 1,
+      "day": 2,
+      "type": "calibration",
+      "text": "How many keys are on a standard full-size piano? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-007",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "Lily pads on a pond double in area every day. The pond is fully covered on day 48. On which day was the pond half covered?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-008",
+      "version": 1,
+      "day": 2,
+      "type": "scenario",
+      "text": "Someone whose judgment you respect tells you your favorite idea will not work. What do you do?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-009",
+      "version": 1,
+      "day": 2,
+      "type": "reflection",
+      "text": "Do ideas come to you one at a time, or several at once?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-010",
+      "version": 1,
+      "day": 2,
+      "type": "drill",
+      "text": "A note on a desk says \"Back in 10 minutes.\" The room is warm, but the cup of tea next to the note is cold, with a skin on the milk. How long has the writer been gone?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-011",
+      "version": 1,
+      "day": 3,
+      "type": "calibration",
+      "text": "How many squares are there on a standard chessboard, counting only the 1-by-1 squares? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-012",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "A is looking at B. B is looking at C. A is married; C is not. Is a married person looking at an unmarried person? Answer yes, no, or cannot be determined, and say why.",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-013",
+      "version": 1,
+      "day": 3,
+      "type": "scenario",
+      "text": "You have two promising ideas and time to pursue only one. How do you choose?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-014",
+      "version": 1,
+      "day": 3,
+      "type": "reflection",
+      "text": "When an idea hits, what's the first thing you do with it?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-015",
+      "version": 1,
+      "day": 3,
+      "type": "drill",
+      "text": "Exactly one of three suspects is lying, and exactly one of them did it. A says \"B did it.\" B says \"I didn't.\" C says \"A is telling the truth.\" Who did it?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-016",
+      "version": 1,
+      "day": 4,
+      "type": "calibration",
+      "text": "How many cards are in a standard deck, not counting jokers? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-017",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "There are three boxes. One contains apples, one contains oranges, and one contains apples and oranges. Every box is labeled, and every label is wrong. You draw one fruit from the box labeled \"apples and oranges,\" and it is an apple. What is in each box?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-018",
+      "version": 1,
+      "day": 4,
+      "type": "scenario",
+      "text": "You are handed a project with no instructions and a one-week deadline. What do you do?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-019",
+      "version": 1,
+      "day": 4,
+      "type": "reflection",
+      "text": "Do you work best in short bursts or long stretches?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-020",
+      "version": 1,
+      "day": 4,
+      "type": "drill",
+      "text": "A house is burgled at night. There's a guard dog in the yard that always barks at strangers, and the neighbors heard nothing at all. What do you conclude?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-021",
+      "version": 1,
+      "day": 5,
+      "type": "calibration",
+      "text": "What is the atomic number of carbon? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-022",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "If 5 machines take 5 minutes to make 5 widgets, how long do 100 machines take to make 100 widgets?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-023",
+      "version": 1,
+      "day": 5,
+      "type": "scenario",
+      "text": "Halfway through a project, you realize your plan was built on a wrong assumption. What do you do?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-024",
+      "version": 1,
+      "day": 5,
+      "type": "reflection",
+      "text": "Do you trust your gut or your logic more? What happens when they disagree?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-025",
+      "version": 1,
+      "day": 5,
+      "type": "drill",
+      "text": "In November, someone says, \"At 3 PM in Los Angeles I was on a video call with my cousin in Tokyo. She'd just finished lunch.\" Does the alibi hold?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-026",
+      "version": 1,
+      "day": 6,
+      "type": "calibration",
+      "text": "In what year did Apollo 11 land on the Moon? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-027",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "You have 9 otherwise identical balls. One is heavier, and you have a balance scale. How can you find the heavy ball in two weighings?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-028",
+      "version": 1,
+      "day": 6,
+      "type": "scenario",
+      "text": "An idea of yours is later presented by someone else, and they get the credit. What do you do?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-029",
+      "version": 1,
+      "day": 6,
+      "type": "reflection",
+      "text": "When you're stuck, what do you do to get unstuck?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-030",
+      "version": 1,
+      "day": 6,
+      "type": "drill",
+      "text": "In World War II, analysts studied the bombers that came back from missions. Bullet holes clustered on the wings and fuselage, with very few on the engines. Where should the extra armor go?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-031",
+      "version": 1,
+      "day": 7,
+      "type": "calibration",
+      "text": "What is 2 to the power of 10? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-032",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "A person looks at a portrait and says, \"Brothers and sisters have I none, but that man's father is my father's son.\" Who is in the portrait?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-033",
+      "version": 1,
+      "day": 7,
+      "type": "scenario",
+      "text": "A group is about to move ahead, and you think they may be missing a risk, but you are not certain. What do you do?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-034",
+      "version": 1,
+      "day": 7,
+      "type": "reflection",
+      "text": "Do you start with the big picture or the small details?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-035",
+      "version": 1,
+      "day": 8,
+      "type": "calibration",
+      "text": "How many feet are in a statute mile? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-036",
+      "version": 1,
+      "day": 8,
+      "type": "puzzle",
+      "text": "In the Monty Hall problem, a prize is equally likely to be behind one of three doors. You pick a door. The host, who knows where the prize is, opens a different door that has no prize, then offers you the chance to switch to the remaining closed door. Should you switch, stay, or are the two choices equal? Why?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-037",
+      "version": 1,
+      "day": 8,
+      "type": "scenario",
+      "text": "You can share a piece of work now, knowing it is imperfect, or spend longer making it better, with no clear deadline. How do you decide?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-038",
+      "version": 1,
+      "day": 8,
+      "type": "reflection",
+      "text": "If you had to pick up a brand-new skill this week, how would you go about it?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-039",
+      "version": 1,
+      "day": 9,
+      "type": "calibration",
+      "text": "According to the International Astronomical Union, how many planets are in our solar system? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-040",
+      "version": 1,
+      "day": 9,
+      "type": "puzzle",
+      "text": "A farmer has to get a wolf, a goat, and a cabbage across a river. The boat holds the farmer and only one of those three. The wolf cannot be left alone with the goat, and the goat cannot be left alone with the cabbage. How does the farmer do it?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-041",
+      "version": 1,
+      "day": 9,
+      "type": "scenario",
+      "text": "You have an elegant solution and a simpler one that would probably work. Which way do you go, and why?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-042",
+      "version": 1,
+      "day": 9,
+      "type": "reflection",
+      "text": "What makes an idea \"good\" to you?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-043",
+      "version": 1,
+      "day": 10,
+      "type": "calibration",
+      "text": "What is the capital city of Australia? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-044",
+      "version": 1,
+      "day": 10,
+      "type": "puzzle",
+      "text": "You have an unmarked 3-gallon jug and an unmarked 5-gallon jug. You may fill, empty, or pour from either jug. How can you measure exactly 4 gallons?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-045",
+      "version": 1,
+      "day": 10,
+      "type": "scenario",
+      "text": "A tight deadline and a quality standard cannot both be fully met. How do you handle it?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-046",
+      "version": 1,
+      "day": 10,
+      "type": "reflection",
+      "text": "How do you tell a truly new idea from a small improvement on an old one?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-047",
+      "version": 1,
+      "day": 11,
+      "type": "calibration",
+      "text": "In modern computing, how many bits are in a byte? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-048",
+      "version": 1,
+      "day": 11,
+      "type": "puzzle",
+      "text": "How many times do the hour and minute hands of a clock overlap in a 12-hour period, not counting the overlap at the end of the 12th hour as a second event if you already counted it at the start?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-049",
+      "version": 1,
+      "day": 11,
+      "type": "scenario",
+      "text": "You notice a small error in work that has already been accepted. Fixing it would take time and might unsettle people. What do you do?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-050",
+      "version": 1,
+      "day": 11,
+      "type": "reflection",
+      "text": "When your instinct says yes but the facts say no, which wins?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-051",
+      "version": 1,
+      "day": 12,
+      "type": "calibration",
+      "text": "In what year did the Wright brothers make their first powered flight? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-052",
+      "version": 1,
+      "day": 12,
+      "type": "puzzle",
+      "text": "A snail is at the bottom of a 10-foot well. Each day it climbs 3 feet, and each night it slips back 2 feet. On which day does it reach the top?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-053",
+      "version": 1,
+      "day": 12,
+      "type": "scenario",
+      "text": "Two projects both excite you, but you can only finish one. How do you choose?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-054",
+      "version": 1,
+      "day": 12,
+      "type": "reflection",
+      "text": "What's the one question you ask yourself before you commit to an idea?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-055",
+      "version": 1,
+      "day": 13,
+      "type": "calibration",
+      "text": "To the nearest minute, how many minutes does light from the Sun take to reach Earth? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-056",
+      "version": 1,
+      "day": 13,
+      "type": "puzzle",
+      "text": "Three switches on the wall each control one of three bulbs in a closed room. You may enter the room only once. How can you tell which switch controls which bulb?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-057",
+      "version": 1,
+      "day": 13,
+      "type": "scenario",
+      "text": "You're asked for a yes-or-no answer on something that still has real uncertainty. How do you respond?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-058",
+      "version": 1,
+      "day": 13,
+      "type": "reflection",
+      "text": "What's one thing about how you think that most people miss?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-059",
+      "version": 1,
+      "day": 14,
+      "type": "calibration",
+      "text": "How many chemical elements are currently recognized on the periodic table? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-060",
+      "version": 1,
+      "day": 14,
+      "type": "puzzle",
+      "text": "All Bloops are Razzies, and all Razzies are Lazzies. Are all Bloops definitely Lazzies? Answer yes, no, or cannot be determined, and say why.",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-061",
+      "version": 1,
+      "day": 14,
+      "type": "scenario",
+      "text": "After you finish a piece of work, someone offers a completely different approach that also looks strong. What do you do with that?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-062",
+      "version": 1,
+      "day": 14,
+      "type": "reflection",
+      "text": "If someone wanted to think like you for a day, what's the one tip you'd give them?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-063",
+      "version": 1,
+      "day": "any",
+      "type": "calibration",
+      "text": "What is 17 times 19? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-064",
+      "version": 1,
+      "day": "any",
+      "type": "calibration",
+      "text": "How many hours are there in a fortnight (14 days)? Give your best guess and how sure you are (0-100).",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-065",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "How many squares of all sizes are on a standard 8-by-8 chessboard?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-066",
+      "version": 1,
+      "day": "any",
+      "type": "puzzle",
+      "text": "Six people are in a room, and every pair shakes hands exactly once. How many handshakes is that?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-067",
+      "version": 1,
+      "day": "any",
+      "type": "scenario",
+      "text": "If you had to make Mars livable, what's the first thing you would fix, and why?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-068",
+      "version": 1,
+      "day": "any",
+      "type": "scenario",
+      "text": "A tool you rely on disappears tomorrow. How do you adapt?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-069",
+      "version": 1,
+      "day": "any",
+      "type": "reflection",
+      "text": "What's usually going on around you when your best ideas show up?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-070",
+      "version": 1,
+      "day": "any",
+      "type": "reflection",
+      "text": "How far do you let an idea go into \"impossible\" before you pull it back to what's buildable?",
+      "answer": null,
+      "active": true
+    },
+    {
+      "id": "Q-071",
+      "version": 2,
+      "day": 7,
+      "type": "drill",
+      "active": true,
+      "text": "Round 7, the missing card (two stages). STAGE 1: Three index cards are found in a drawer, each with one word on the front and a number on the back. Card #1: MEET. Card #2: ME. Card #4: NOON. What's the message, and how sure are you?",
+      "answer": null
+    }
+  ]
+}
